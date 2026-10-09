@@ -7,7 +7,7 @@
 
 This repository implements the **reference separator lens** for DataDiddler.
 
-It is the first concrete lens that plugs into the `datadiddler-kernel` and proves that the lens contract works end-to-end.
+It is the first concrete lens that plugs into the `text-pipeline-orchestrator` and proves that the lens contract works end-to-end.
 
 It is intentionally minimal.
 
